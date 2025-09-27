@@ -4,7 +4,7 @@ A modern, professional homepage for a fictional IELTS Institute built with **Vit
 
 ## 🌐 Live Demo
 
-**Live URL**: [https://3000-i9sp3x44ebj45dkwvxk09-6532622b.e2b.dev](https://3000-i9sp3x44ebj45dkwvxk09-6532622b.e2b.dev)
+**Live URL**: https://ielts-institute-ass-git-f2a1dc-sudharsan-m-gs-projects-74d493f3.vercel.app/
 
 ## ✨ Features
 
@@ -173,4 +173,3 @@ The website is fully responsive with:
 
 **Built with ❤️ using Vite + React + Custom CSS**
 
-*No external CSS frameworks were used - all styling hand-crafted for optimal performance and design control.*
